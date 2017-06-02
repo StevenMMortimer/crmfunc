@@ -16,6 +16,8 @@ knitr::opts_chunk$set(
 )
 ```
 
+<img src="logo.png" align="right" style="margin-left: 10px;" />
+
 # crmfunc
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -26,6 +28,6 @@ fields, removing duplicate values, and other tasks specifically designed to hand
 customer data (names, addresses, phone numbers, etc.) whether or not it comes from 
 a CRM system.
 
-### License
+## License
 
 The **crmfunc** package is licensed under the [MIT License](http://choosealicense.com/licenses/mit/).  
